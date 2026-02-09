@@ -7,8 +7,5 @@ Sou um Técnico em Informática e Desenvolvedor Full-stack em formação pelo Se
 * **Interesses:** Automação, DevOps, Hardware Hacking.
 * **Estudando:** Estruturas de dados em Python e Redes de Computadores.
 
-### 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p3uziNn&show_icons=true&theme=dark)
-
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pietro-Henry/)
