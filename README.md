@@ -8,6 +8,6 @@ Sou um Técnico em Informática e Desenvolvedor Full-stack em formação pelo Se
 * **Estudando:** Estruturas de dados em Python e Redes de Computadores.
 
 ### 📫 Contato
-* **Linguagens:** pietrohenryph@gmail.com
+* **Email:** pietrohenryph@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pietro-Henry/)
