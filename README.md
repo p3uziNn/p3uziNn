@@ -3,7 +3,7 @@
 Sou um Técnico em Informática e Desenvolvedor Full-stack em formação pelo Senac, atualmente focado em **Desenvolvimento Web** e **Desenvolvimento de sistemas**. Meu objetivo é criar soluções eficientes enquanto construo uma base sólida para atuar em engenharia de softwares.
 
 ### 🛠 Tecnologias & Ferramentas
-* **Linguagens:** Python (Foco atual).
+* **Linguagens:** Python e JavaScript (Foco atual).
 * **Interesses:** Automação, DevOps, Hardware Hacking.
 * **Estudando:** Estruturas de dados em Python e Redes de Computadores.
 
